@@ -1,0 +1,7 @@
+D:\Kussa Richárd\Érettségi\Ötszáz\git\otszaz\otszaz_code\otszaz\bin\Debug\otszaz.exe.config
+D:\Kussa Richárd\Érettségi\Ötszáz\git\otszaz\otszaz_code\otszaz\bin\Debug\otszaz.exe
+D:\Kussa Richárd\Érettségi\Ötszáz\git\otszaz\otszaz_code\otszaz\bin\Debug\otszaz.pdb
+D:\Kussa Richárd\Érettségi\Ötszáz\git\otszaz\otszaz_code\otszaz\obj\Debug\otszaz.csprojAssemblyReference.cache
+D:\Kussa Richárd\Érettségi\Ötszáz\git\otszaz\otszaz_code\otszaz\obj\Debug\otszaz.csproj.CoreCompileInputs.cache
+D:\Kussa Richárd\Érettségi\Ötszáz\git\otszaz\otszaz_code\otszaz\obj\Debug\otszaz.exe
+D:\Kussa Richárd\Érettségi\Ötszáz\git\otszaz\otszaz_code\otszaz\obj\Debug\otszaz.pdb
